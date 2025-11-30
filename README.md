@@ -2,7 +2,7 @@
 [![Made with love](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20%20by-DevSoc-blue.svg)](https://devsoc.club/)
 
 ### Compiled by Mayank Mathur (Web Dev Head 2021)
-### ~ Aryan Bhosale (Web Dev Head)
+### ~ Aryan Bhosale (Web Dev Head 2023)
 
 #### Note:
 
